@@ -1,0 +1,19 @@
+# ninja log v6
+1	519	7706473561851884	CMakeFiles/Warcaby.dir/main.cpp.obj	702f012d5a815648
+4	550	7706473561881960	CMakeFiles/Warcaby.dir/game.cpp.obj	921d4a03664ae0bd
+6	550	7706473561901873	CMakeFiles/Warcaby.dir/board.cpp.obj	eb0a4742c7c00f1b
+8	739	7706473561921875	CMakeFiles/Warcaby.dir/graphicalGame.cpp.obj	22d9234ed97b0342
+739	1036	7706473569230866	Warcaby.exe	9e00d512a02947a3
+10	506	7706476091197898	CMakeFiles/Warcaby.dir/board.cpp.obj	eb0a4742c7c00f1b
+4	520	7706476091137896	CMakeFiles/Warcaby.dir/main.cpp.obj	702f012d5a815648
+8	545	7706476091177922	CMakeFiles/Warcaby.dir/game.cpp.obj	921d4a03664ae0bd
+12	736	7706476091217905	CMakeFiles/Warcaby.dir/graphicalGame.cpp.obj	22d9234ed97b0342
+736	925	7706476098460452	Warcaby.exe	9e00d512a02947a3
+4	515	7706484219542156	CMakeFiles/Warcaby.dir/main.cpp.obj	702f012d5a815648
+6	725	7706484219572169	CMakeFiles/Warcaby.dir/graphicalGame.cpp.obj	22d9234ed97b0342
+725	912	7706484226759775	Warcaby.exe	9e00d512a02947a3
+3	712	7706484541993924	CMakeFiles/Warcaby.dir/graphicalGame.cpp.obj	22d9234ed97b0342
+712	898	7706484549077726	Warcaby.exe	9e00d512a02947a3
+3	505	7706487728908118	CMakeFiles/Warcaby.dir/main.cpp.obj	702f012d5a815648
+6	724	7706487728928112	CMakeFiles/Warcaby.dir/graphicalGame.cpp.obj	22d9234ed97b0342
+725	918	7706487736117423	Warcaby.exe	9e00d512a02947a3

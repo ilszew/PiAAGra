@@ -1,0 +1,3 @@
+C:/Users/kolew/Documents/Projekty/PiAA_Warcaby/cmake-build-debug/CMakeFiles/Warcaby.dir
+C:/Users/kolew/Documents/Projekty/PiAA_Warcaby/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kolew/Documents/Projekty/PiAA_Warcaby/cmake-build-debug/CMakeFiles/rebuild_cache.dir
