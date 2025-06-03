@@ -20,6 +20,11 @@ GraphicalGame::GraphicalGame()
 }
 
 void GraphicalGame::run() {
+    if (!initializeGraphics()) {
+        std::cerr << "blad inicjalizacji grafiki" << std::endl;
+        return;
+    }
+
     window.setFramerateLimit(60);
     
     while (window.isOpen()) {
@@ -31,7 +36,7 @@ void GraphicalGame::run() {
 
 bool GraphicalGame::initializeGraphics() {
     if (!font.loadFromFile("arial.ttf")) {
-        std::cout << "Nie można zaladować orginalnej czcionki, uzywam domyslnej " << std::endl;
+        std::cout << "Nie mozna zaladować orginalnej czcionki, uzywam domyslnej " << std::endl;
     }
     
     return true;

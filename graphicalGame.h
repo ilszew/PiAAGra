@@ -21,8 +21,7 @@ private:
     static const int BOARD_OFFSET_X = 0;
     static const int BOARD_OFFSET_Y = 50;
     static const int PIECE_RADIUS = 35;
-    
-    // Kolory
+
     sf::Color LIGHT_SQUARE_COLOR;
     sf::Color DARK_SQUARE_COLOR;
     sf::Color WHITE_PIECE_COLOR;
@@ -30,8 +29,7 @@ private:
     sf::Color HIGHLIGHT_COLOR;
     sf::Color SELECTED_COLOR;
     sf::Color POSSIBLE_MOVE_COLOR;
-    
-    // Stan gry
+
     Position selectedPiece;
     bool pieceSelected;
     std::vector<Move> possibleMoves;
